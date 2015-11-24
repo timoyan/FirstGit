@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-Modify Content Local
-=======
 Change Content Local
 >>>>>>> parent of 4ed7aec... Second Time Change
 
